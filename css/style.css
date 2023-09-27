@@ -66,6 +66,7 @@ footer {
 }
 
 img {
+    align-items: center;
     max-width: 300px;
     height: auto;
     margin: 10px;
